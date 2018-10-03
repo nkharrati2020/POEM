@@ -1,4 +1,9 @@
 Once upon a time there was a pond
 Where all the animals came out at night
 And slowly soak up the silver moonlight
+<<<<<<< HEAD
 The spider crawled across the ice cold surface
+=======
+The frog leaped into the mouth of the shark
+>>>>>>> a4f5ac18e9858f21fdb23fb994b9ae8aa2364e3a
+the spider crawled across the ice cold surface
